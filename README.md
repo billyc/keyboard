@@ -40,7 +40,10 @@ Some older Turkish words still use the circumflex `^` e.g. *bekârım*. You can 
 
 ### Installation
 
-- Unzip the attached layout, and run setup.exe. Should work on Windows 7 and up.
+The provided setup file should work on Windows 7 and up.
+
+- Download [intl+tr.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/intl%2Btr.zip)
+- Unzip the contents, and run `setup.exe`. 
 - Then go to your system *Region & Language* control panel, Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard. I actually removed the "US Qwerty" keyboard so that I only use this one. You can always add it back later if you don't like this one.
 
 ### Full Layout
