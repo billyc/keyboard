@@ -7,10 +7,9 @@ This is a Windows keyboard layout based on the excellent
 It uses "AltGr" -- combinations of the `right-ALT` key + letters to
 produce the accented letters and symbols needed for most Western European languages.
 
-It is probably most useful for Americans with U.S. keyboards, who only occasionally need to type in other languages. You can use this layout to type Turkish, German, Spanish, French, Italian... without changing any of the existing keys on your keyboard.
+The US International Alternate layout already had all the umlauted vowels used in Turkish; all I did was add the three missing Turkish letters: ğ, ş, and ı.
 
-The US International Alternate layout already had all the umlauted vowels used in Turkish; now I've added the three missing Turkish letters: ğ, ş, and ı.
-
+It is probably most useful for Americans with U.S. keyboards who only occasionally need to type in other languages. You can use this layout to type Turkish, German, Spanish, French, Italian... without changing any of the existing keys on your keyboard. Especially for coders, it's maddening to lose your punctuation keys! Now you don't have to.
 
 ### Key combinations for Turkish letters
 
