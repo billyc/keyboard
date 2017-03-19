@@ -36,7 +36,7 @@ The Turkish `I` and `İ` are a bit strange since the English "i" is either dotte
 
 Some older Turkish words still use the circumflex `^` e.g. *bekârım*. You can type those by using what's called "dead key" combinations:
 
-* First type `RIGHT-ALT`+`SHIFT`+'6' (the circumflex key) -- nothing will show up on your screen
+* First type `SHIFT`+`RIGHT-ALT`+`6` (the circumflex key) -- nothing will show up on your screen
 * Then type the vowel you want to get the little hat: â, ô, ê will magically appear.
 
 ### Installation
@@ -54,5 +54,5 @@ You can see all the US International Alternate mappings here:
 
 ![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
-Props to http://keyboards.jargon-file.org for the initial KLC file!
+Props to [[http://keyboards.jargon-file.org]] for the initial KLC file!
 
