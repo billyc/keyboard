@@ -37,7 +37,7 @@ The Turkish `I` and `İ` are a bit strange since the English "i" is either dotte
 Some older Turkish words still use the circumflex `^` e.g. *bekârım*. You can type those by using what's called "dead key" combinations:
 
 * First type `SHIFT`+`RIGHT-ALT`+`6` (the circumflex key) -- nothing will show up on your screen
-* Then type the vowel you want to see the letter with the little hat: â, ô, ê, î will magically appear.
+* Then type the vowel. You will see the letter with the little hat: â, ô, ê, î magically appear.
 
 ### Installation
 
@@ -45,14 +45,17 @@ The provided setup file should work on Windows 7 and up.
 
 - Download [intl+tr.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/intl%2Btr.zip)
 - Unzip the contents, and run `setup.exe`. 
-- Then go to your system *Region & Language* control panel, Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard. 
-- For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this one. Otherwise you may need to pick the keyboard from the `ENG` icon near your system clock / tray.
+- Then go to your system *Region & Language* control panel. Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard. 
+- For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
 
 ### Full Layout
 
 You can see all the US International Alternate mappings here: 
 
 ![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
+
+---
+Build with the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx).
 
 Props to [keyboards.jargon-file.org](http://keyboards.jargon-file.org) for the initial KLC file!
 
