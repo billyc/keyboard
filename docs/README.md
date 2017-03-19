@@ -31,7 +31,7 @@ On a US keyboard, `AltGr` is the **right ALT key** -- the ALT key to the right o
 
 **The Turkish `İ`**
 
-The Turkish `I` and `İ` are a bit strange since the English "i" is either dotted or not depending on whether it's lower or upper case. I've added two separate key mappings for the two Turkish versions of i, as that is how Turks think about them: they are different letters. What this means in practice is that you will only need the lowercase ı and the uppercase İ. They're on different keys. I thought about putting those on one key, but to a Turk that would be really weird. Let me know how this works for you.
+The Turkish `I` and `İ` are a bit strange since the English "i" is either dotted or not depending on whether it's lower or upper case. I've added separate key mappings for the two Turkish versions of i, since that is how Turks think about them: they are different letters. In practice, you will only need the lowercase ı and the uppercase İ. They're on different keys. I thought about putting them on one key, but to a Turk that would be weird. Let me know how this works for you.
 
 **Circumflex**
 
