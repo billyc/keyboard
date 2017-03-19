@@ -1,16 +1,15 @@
+![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
+
 # US International Alternate + Turkish Keyboard
 
 This is a Windows keyboard layout based on the excellent 
 "US International Alternate" layout, available on Ubuntu.
 It uses "AltGr" -- combinations of the `right-ALT` key + letters to
-produce non-English letters from most Western European languages.
-
-![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
+produce the accented letters and symbols needed for most Western European languages.
 
 I've added the three missing Turkish letters (ğ ş and ı).
 
-You can use this one layout to type Turkish, German, Spanish, French, Italian... without 
-messing up any keys already on your keyboard. Awesome!
+You can use this one layout to type Turkish, German, Spanish, French, Italian... without messing up any keys already on your keyboard. Awesome!
 
 The Turkish `I` and `İ` are a bit strange since the English "i" is either dotted or not depending on whether it's lower or upper case. I've added two separate key mappings for the two Turkish versions of i, as that is how Turks think about them: they are different letters. What this means in practice is that you will only need the lowercase ı and the uppercase İ. They're on different keys. I thought about putting those on one key, but to a Turk that would be really weird. Let me know how this works for you.
 
