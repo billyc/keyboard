@@ -55,7 +55,5 @@ You can see all the US International Alternate mappings here:
 ![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
 ---
-Build with the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx).
-
-Props to [keyboards.jargon-file.org](http://keyboards.jargon-file.org) for the initial KLC file!
+Built with the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx). Props to [keyboards.jargon-file.org](http://keyboards.jargon-file.org) for the initial KLC file!
 
