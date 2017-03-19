@@ -45,9 +45,7 @@ Some older Turkish words still use the circumflex `^` e.g. *bekârım*. You can 
 
 You can see all the US International Alternate mappings here: 
 
-
-
-
+![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
 Props to http://keyboards.jargon-file.org for the initial KLC file!
 
