@@ -38,7 +38,7 @@ The Turkish `I` and `İ` are a bit strange since the English "i" is either dotte
 Some older Turkish words still use the circumflex `^` e.g. *bekârım*. You can type those by using what's called "dead key" combinations:
 
 * First type `SHIFT`+`RIGHT-ALT`+`6` (the circumflex key) -- nothing will show up on your screen
-* Then type the vowel. You will see the letter with the little hat: â, ô, ê, î magically appear.
+* Then type the vowel. The letter with the cute little hat will magically appear: â, ô, ê, î
 
 ### Installation
 
