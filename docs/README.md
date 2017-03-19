@@ -7,7 +7,7 @@ This is a Windows keyboard layout based on the excellent
 It uses "AltGr" -- combinations of the `right-ALT` key + letters to
 produce the accented letters and symbols needed for most Western European languages.
 
-I've added the three missing Turkish letters (ğ ş and ı).
+The umlauted vowels are already there, and now I've added the three missing Turkish letters: ğ, ş, and ı.
 
 You can use this one layout to type Turkish, German, Spanish, French, Italian... without messing up any keys already on your keyboard. Awesome!
 
@@ -37,7 +37,7 @@ The Turkish `I` and `İ` are a bit strange since the English "i" is either dotte
 Some older Turkish words still use the circumflex `^` e.g. *bekârım*. You can type those by using what's called "dead key" combinations:
 
 * First type `SHIFT`+`RIGHT-ALT`+`6` (the circumflex key) -- nothing will show up on your screen
-* Then type the vowel you want to get the little hat: â, ô, ê will magically appear.
+* Then type the vowel you want to see the letter with the little hat: â, ô, ê, î will magically appear.
 
 ### Installation
 
@@ -54,5 +54,5 @@ You can see all the US International Alternate mappings here:
 
 ![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
-Props to [[http://keyboards.jargon-file.org]] for the initial KLC file!
+Props to [keyboards.jargon-file.org](http://keyboards.jargon-file.org) for the initial KLC file!
 
