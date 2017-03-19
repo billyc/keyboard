@@ -5,6 +5,8 @@ This is a Windows keyboard layout based on the excellent
 It uses "AltGr" -- combinations of the `right-ALT` key + letters to
 produce non-English letters from most Western European languages.
 
+![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
+
 I've added the three missing Turkish letters (ğ ş and ı).
 
 You can use this one layout to type Turkish, German, Spanish, French, Italian... without 
