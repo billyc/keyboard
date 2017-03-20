@@ -5,14 +5,14 @@
 Typing in Western European languages on Windows is pretty easy if you turn on the International keyboard, but getting the extra Turkish letters is a little bit trickier.
 
 This is a Windows keyboard layout that can do both.
-It uses "AltGr" -- combinations of the `right-ALT` key + letters to
+It uses combinations of the `right-ALT` key + letters to
 produce the accented letters and symbols needed for most Western European languages. The "US International Alternate" keyboard (found on Linux) already has ö, ü, and ç; all I did was add the three missing Turkish letters: ğ, ş, and ı.
 
 It is probably most useful for Americans with U.S. keyboards who only occasionally need to type in other languages. You can use this layout to type Turkish, German, Spanish, French, Italian... without changing any of the existing keys on your keyboard. Especially for coders, it's maddening to lose your punctuation keys! Now you don't have to.
 
 ### Key combinations for Turkish letters
 
-On a US keyboard, `AltGr` is the **right ALT key** -- the ALT key to the right of the spacebar. 
+On a US keyboard, the `AltGr` key is the **right ALT key** -- the ALT key to the right of the spacebar. 
 
 * To produce the letter below, hold down the `RIGHT-ALT` key and press the letter.
 * To produce a Capital Letter, hold down **both** `SHIFT` and `RIGHT-ALT` and then press the letter.
