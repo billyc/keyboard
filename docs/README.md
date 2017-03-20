@@ -2,12 +2,11 @@
 
 # US International Alternate + Turkish Keyboard
 
-This is a Windows keyboard layout based on the excellent 
-"US International Alternate" layout, available on Ubuntu.
-It uses "AltGr" -- combinations of the `right-ALT` key + letters to
-produce the accented letters and symbols needed for most Western European languages.
+Typing in Western European languages on Windows is pretty easy if you turn on the International keyboard, but getting the extra Turkish letters is a little bit trickier.
 
-The US International Alternate layout already had all the umlauted vowels used in Turkish; all I did was add the three missing Turkish letters: ğ, ş, and ı.
+This is a Windows keyboard layout that can do both.
+It uses "AltGr" -- combinations of the `right-ALT` key + letters to
+produce the accented letters and symbols needed for most Western European languages. The "US International Alternate" keyboard (found on Linux) already has ö, ü, and ç; all I did was add the three missing Turkish letters: ğ, ş, and ı.
 
 It is probably most useful for Americans with U.S. keyboards who only occasionally need to type in other languages. You can use this layout to type Turkish, German, Spanish, French, Italian... without changing any of the existing keys on your keyboard. Especially for coders, it's maddening to lose your punctuation keys! Now you don't have to.
 
