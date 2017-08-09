@@ -54,5 +54,13 @@ You can see all the US International Alternate mappings here:
 ![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
 ---
+
+# OOPS! Update:
+
+Well, I decided I didn't like the fact that the umlauted a, u, o keys were all bumped out of the way in the International Layout for áccentéd letters cónvenient for Spanish or French. I don't speak Spanish or French! So, I've moved the umlauted letters to the keys where they belong: ALT-A, ALT-O, and ALT-U now produce Ä, Ö, and Ü. Tough titties, Spanish speakers. The Billy-fied version is here:
+- - Download [intl+bc.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/intl%2Bbc.zip)
+
+
+---
 Built with the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx). Props to [keyboards.jargon-file.org](http://keyboards.jargon-file.org) for the initial KLC file!
 
