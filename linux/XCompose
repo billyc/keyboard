@@ -1,0 +1,14 @@
+# BILLY
+<dead_diaeresis> <dead_diaeresis> 	: ";"   semicolon # semicolon
+<dead_diaeresis> <space>            : "; "  # semi and space
+<dead_diaeresis> <s>                : "ß" scedilla    # german esszett s-sharp
+<dead_diaeresis> <S>                : "ẞ" U1E9E       # german esszett s-sharp
+<dead_diaeresis> <c>                : "ç" U0037       # turkish ch
+<dead_diaeresis> <C>                : "Ç" U0057       # turkish ch
+<dead_diaeresis> <x>                : "ş" scedilla    # turkish sh
+<dead_diaeresis> <X>                : "Ş" Scedilla    # turkish sh
+<dead_diaeresis> <g>                : "ğ" gbreve      # turkish soft g
+<dead_diaeresis> <G>                : "Ğ" Gbreve      # turkish soft g
+<dead_diaeresis> <i>                : "ı" idotless    # turkish weird i
+<dead_diaeresis> <I>                : "İ" Iabovedot   # turkish weird i
+

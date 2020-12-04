@@ -1,4 +1,4 @@
-![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
+![keyboard map](https://github.com/billyc/turkish-keyboard/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
 # US International Alternate + Turkish Keyboard
 
@@ -9,6 +9,11 @@ It uses combinations of the `right-ALT` key + letters to
 produce the accented letters and symbols needed for most Western European languages. The "US International Alternate" keyboard (found on Linux) already has ö, ü, and ç; all I did was add the three missing Turkish letters: ğ, ş, and ı.
 
 It is probably most useful for Americans with U.S. keyboards who only occasionally need to type in other languages. You can use this layout to type Turkish, German, Spanish, French, Italian... without changing any of the existing keys on your keyboard. Especially for coders, it's maddening to lose your punctuation keys! Now you don't have to.
+
+### Update:
+
+Well, I decided I didn't like the fact that the umlauted a, u, o keys were all bumped out of the way in the International Layout for áccentéd letters cónvenient for Spanish or French. I don't speak Spanish or French! So, I've moved the umlauted letters to the keys where they belong: ALT-A, ALT-O, and ALT-U now produce Ä, Ö, and Ü. Tough titties, Spanish speakers. The Billy-fied version is here:
+- - Download [intl+bc.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/intl%2Bbc.zip)
 
 ### Key combinations for Turkish letters
 
@@ -22,8 +27,7 @@ On a US keyboard, the `AltGr` key is the **right ALT key** -- the ALT key to the
 |  `ç`  | `RIGHT-ALT` + `,` |
 |  `ş`  | `RIGHT-ALT` + `x` |
 |  `ğ`  | `RIGHT-ALT` + `g` |
-|  `ı`  | `RIGHT-ALT` + `h` |
-|  `i`  | `RIGHT-ALT` + `j` -- and hold `SHIFT` for `İ`|
+|  `ı`  | `RIGHT-ALT` + `i` |
 |  `ö`  | `RIGHT-ALT` + `p` |
 |  `ü`  | `RIGHT-ALT` + `y` |
 
@@ -42,7 +46,7 @@ Some older Turkish words still use the circumflex `^` e.g. *bekârım*. You can 
 
 The provided setup file should work on Windows 7 and up.
 
-- Download [intl+tr.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/intl%2Btr.zip)
+- Download [intl+bc.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/intl%2Bbc.zip)
 - Unzip the contents, and run `setup.exe`. 
 - Then go to your system *Region & Language* control panel. Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard. 
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
@@ -51,14 +55,9 @@ The provided setup file should work on Windows 7 and up.
 
 You can see all the US International Alternate mappings here: 
 
-![keyboard map](https://github.com/billyc/keyboard-intl-tr/raw/master/keyboard-US-International.png "Full Keyboard Map")
+![keyboard map](https://github.com/billyc/turkish-keyboard/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
 ---
-
-# OOPS! Update:
-
-Well, I decided I didn't like the fact that the umlauted a, u, o keys were all bumped out of the way in the International Layout for áccentéd letters cónvenient for Spanish or French. I don't speak Spanish or French! So, I've moved the umlauted letters to the keys where they belong: ALT-A, ALT-O, and ALT-U now produce Ä, Ö, and Ü. Tough titties, Spanish speakers. The Billy-fied version is here:
-- - Download [intl+bc.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/intl%2Bbc.zip)
 
 
 ---
