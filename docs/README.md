@@ -1,4 +1,4 @@
-![keyboard map](https://github.com/billyc/turkish-keyboard/raw/master/keyboard-US-International.png "Full Keyboard Map")
+![keyboard map](https://github.com/billyc/en-de-tr-keyboard/raw/master/keyboard-US-International.png "Full Keyboard Map")
 
 # US Keyboard Layout + German + Turkish: 3-in-1!
 
@@ -51,7 +51,7 @@ Some older Turkish words still use the circumflex `^` e.g. _bekârım_. You can 
 
 The provided setup file should work on Windows 7 and up.
 
-- Download [intl+bc.zip](https://github.com/billyc/keyboard-intl-tr/raw/master/windows/intl%2Bbc.zip)
+- Download [intl+bc.zip](https://github.com/billyc/en-de-tr-keyboard/raw/master/windows/intl%2Bbc.zip)
 - Unzip the contents, and run `setup.exe`.
 - Then go to your system _Region & Language_ control panel. Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard.
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
