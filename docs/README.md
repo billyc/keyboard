@@ -23,14 +23,14 @@ On a US keyboard, the `AltGr` key is the **right ALT key** -- the ALT key to the
 
 | Letter | How to Type It    |
 | ------ | ----------------- |
-| `ö`    | `RIGHT-ALT` + `o` |
-| `ü`    | `RIGHT-ALT` + `u` |
-| `ä`    | `RIGHT-ALT` + `a` |
-| `ß`    | `RIGHT-ALT` + `s` |
-| `ç`    | `RIGHT-ALT` + `c` |
-| `ş`    | `RIGHT-ALT` + `x` |
-| `ğ`    | `RIGHT-ALT` + `g` |
-| `ı/İ`  | `RIGHT-ALT` + `i` |
+| `ö`    | `RIGHT-ALT` + `O` |
+| `ü`    | `RIGHT-ALT` + `U` |
+| `ä`    | `RIGHT-ALT` + `A` |
+| `ß`    | `RIGHT-ALT` + `S` |
+| `ç`    | `RIGHT-ALT` + `C` |
+| `ş`    | `RIGHT-ALT` + `X` |
+| `ğ`    | `RIGHT-ALT` + `G` |
+| `ı/İ`  | `RIGHT-ALT` + `I` |
 
 **About that Turkish `İ`**
 
@@ -63,11 +63,13 @@ press and then follow by a second key to get the letter you want. Semi-semi prod
 a real semicolon; semi-space produces a semi followed by a space (very logical!) and
 semi followed by one of a-o-u-s-x-g-i gets you the fancy letters.
 
+The files mentioned below can be found in <https://github.com/billyc/turkish-keyboard/linux>
+
 1. Copy the following two files using sudo to their proper places:
 
    ```bash
-   sudo cp linux/usr-share-x11-xkb-symbols-us /usr/share/X11/xkb/symbols/us
-   sudo cp linux/usr-share-x11-xkb-rules-evdev.xml /usr/share/X11/xkb/rules/evdev.xml
+   sudo cp usr-share-x11-xkb-symbols-us /usr/share/X11/xkb/symbols/us
+   sudo cp usr-share-x11-xkb-rules-evdev.xml /usr/share/X11/xkb/rules/evdev.xml
    ```
 
 2. Copy the XCompose file into your home folder as `~/.XCompose`
