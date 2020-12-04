@@ -30,7 +30,7 @@ On a US keyboard, the `AltGr` key is the **right ALT key** -- the ALT key to the
 | `ç`    | `RIGHT-ALT` + `c` |
 | `ş`    | `RIGHT-ALT` + `x` |
 | `ğ`    | `RIGHT-ALT` + `g` |
-| `ı/'İ` | `RIGHT-ALT` + `i` |
+| `ı/İ`  | `RIGHT-ALT` + `i` |
 
 **About that Turkish `İ`**
 
@@ -57,6 +57,11 @@ The provided setup file should work on Windows 7 and up.
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
 
 ## 2. Linux
+
+The linux keyboard also has the `semicolon` key as a "special key" which you must
+press and then follow by a second key to get the letter you want. Semi-semi produces
+a real semicolon; semi-space produces a semi followed by a space (very logical!) and
+semi followed by one of a-o-u-s-x-g-i gets you the fancy letters.
 
 1. Copy the following two files using sudo to their proper places:
 
