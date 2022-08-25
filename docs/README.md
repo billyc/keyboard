@@ -60,14 +60,14 @@ The Turkish `I` and `İ` are a bit strange since the English "i" is either dotte
 
 ## 1. Windows
 
-The provided setup file should work on Windows 7 and up.
+The provided setup file should work on Windows 7/8/10/11.
 
 - Download [intl-bc.zip](https://github.com/billyc/en-de-tr-keyboard/raw/master/windows/intl-bc-keyboard.zip)
 - Unzip the contents, and run `setup.exe`.
 - Then go to your system _Region & Language_ control panel. Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard.
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
 
-## 1. Mac
+## 2. Mac
 
 This is tested on both Intel and M1 macs.
 

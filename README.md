@@ -6,7 +6,7 @@ This keyobard layout is probably only useful for _Americans with U.S. keyboards 
 
 As a software dev, I need all the brackets and punctuation on the US keyboard layout at my fingertips. But I live in Berlin, so I also need to type in German! Typing in German is pretty easy if you switch to the International keyboard, but then all the punctuation ends up in weird places, not to mention always getting Z and Y wrong.
 
-This keyboard layout can do it all. It's based on the US layout, and uses key combinations using the `semicolon` key to trigger the accented letters that I need here in Germany.
+This keyboard layout can do it all. It's based on the US layout, and uses key combinations using the **semicolon key** `;` to trigger the accented letters that I need here in Germany.
 
 <p style="padding: 1rem 1rem; background-color: white">
 Why German and Turkish? Well first of all, because I live in Berlin! English, German, and Turkish are the three most common languages spoken in Berlin, probably in that order ;-) so it makes sense to have one keyboard that does all three.<br/>
@@ -60,14 +60,14 @@ The Turkish `I` and `İ` are a bit strange since the English "i" is either dotte
 
 ## 1. Windows
 
-The provided setup file should work on Windows 7 and up.
+The provided setup file should work on Windows 7/8/10/11.
 
 - Download [intl-bc.zip](https://github.com/billyc/en-de-tr-keyboard/raw/master/windows/intl-bc-keyboard.zip)
 - Unzip the contents, and run `setup.exe`.
 - Then go to your system _Region & Language_ control panel. Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard.
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
 
-## 1. Mac
+## 2. Mac
 
 This is tested on both Intel and M1 macs.
 
