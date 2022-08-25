@@ -49,6 +49,7 @@ That's it!
 | `ş`    | `;` + `X`      |
 | `ğ`    | `;` + `G`      |
 | `ı/İ`  | `;` + `I`      |
+| `€`    | `;` + `E`      |
 
 Remember, to produce a Capital Letter, press `;` first and **then** `SHIFT` and the letter.
 
