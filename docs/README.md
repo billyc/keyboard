@@ -2,7 +2,7 @@
 
 # Billy's Special keyboard layout:<br/>US Layout for coders + German and Turkish too!
 
-This keyobard layout is probably only useful for _Americans with U.S. keyboards who only occasionally need to type in German._ But that's me! And I published it here in case you find it helpful too.
+This keyboard layout is probably only useful for _Americans with U.S. keyboards who only occasionally need to type in German._ But that's me! And I published it here in case you find it helpful too.
 
 As a software dev, I need all the brackets and punctuation on the US keyboard layout at my fingertips. But I live in Berlin, so I also need to type in German! Typing in German is pretty easy if you switch to the International keyboard, but then all the punctuation ends up in weird places, not to mention always getting Z and Y wrong.
 
