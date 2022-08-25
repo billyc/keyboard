@@ -35,8 +35,6 @@ Every key on this keyboard works exactly like the regular U.S. keyboard with the
 - Press `;` twice ("semi-semi")
 - Or press "semi-space" to get a semicolon followed by a space.
 
-That's it!
-
 | Letter | How to Type It |
 | ------ | -------------- |
 | `;`    | `;` + `;`      |
