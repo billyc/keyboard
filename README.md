@@ -1,41 +1,42 @@
 ![keyboard map](https://github.com/billyc/en-de-tr-keyboard/raw/master/keyboard-US-International.png 'Full Keyboard Map')
 
-# Special keyboard layout: US Keyboard Layout for coders + German (and Turkish too!)
+# Billy's Special keyboard layout:<br/>US Layout for coders + German and Turkish too!
 
-As a software dev, I really need all the brackets and punctuation on the US keyboard layout at my fingertips. But I live in Berlin so I also need to type in German! Typing in German is pretty easy if you switch to the International keyboard, but then all the punctuation ends up in weird places, not to mention always getting Z and Y wrong.
+As a software dev, I need all the brackets and punctuation on the US keyboard layout at my fingertips. But I live in Berlin, so I also need to type in German! Typing in German is pretty easy if you switch to the International keyboard, but then all the punctuation ends up in weird places, not to mention always getting Z and Y wrong.
 
 This keyboard layout can do it all. It's based on the US layout, and uses key combinations using the `semicolon` key to trigger the accented letters that I need here in Germany.
 
-    Why German and Turkish? Well first of all, because I live in Berlin!
-    English, German, and Turkish are the three most common languages spoken
-    in Berlin, probably in that order ;-) so it makes sense to have one
-    keyboard that does all three.
+<span style="padding: 1rem 1rem; background-color: white">
+Why German and Turkish? Well first of all, because I live in Berlin!
+English, German, and Turkish are the three most common languages spoken
+in Berlin, probably in that order ;-) so it makes sense to have one
+keyboard that does all three.
+</span>
 
-I admit this keyboard is probably only useful for _Americans with U.S. keyboards who only occasionally need to type in those other languages._ But that's me! And I put it here in case you find it helpful.
+So, this keyboard is probably only useful for _Americans with U.S. keyboards who only occasionally need to type in those other languages._ But that's me! And I put it here in case you find it helpful.
 
 ## How to type umlauts and some special characters: ö ü ä ß ç ş ğ ı
 
 Every key on this keyboard works exactly like the regular U.S. keyboard with the exception of the `semicolon (;)` key which triggers a two-key combination:
 
+**For umlauts etc:**
+
 - First type `;` -- nothing will show up on your screen
 - Then type the letter: `o` `u` `a` `s` `c` `x` `i`.
 - The umlauted or accented character will magically appear! öüäßçşğı
 
-For Capital Letters:
+**For Capital Letters:**
 
 - First type `;` -- nothing will show up on your screen
 - Then type the CAPITAL letter: `SHIFT` plus `o` `u` `a` `s` etc.
 - The capital letter will magically appear: Ö Ü Ä etc.
 
-To type a real semicolon:
+**To type a real semicolon:**
 
 - Press `;` twice ("semi-semi")
 - Or press "semi-space" to get a semicolon followed by a space.
 
 That's it!
-
-- To produce the letter below, hold down the `RIGHT-ALT` key and press the letter.
-- To produce a Capital Letter, hold down **both** `SHIFT` and `RIGHT-ALT` and then press the letter.
 
 | Letter | How to Type It |
 | ------ | -------------- |
@@ -49,6 +50,8 @@ That's it!
 | `ğ`    | `;` + `G`      |
 | `ı/İ`  | `;` + `I`      |
 
+Remember, to produce a Capital Letter, press `;` first and **then** `SHIFT` and the letter.
+
 **About that Turkish `İ`**
 
 The Turkish `I` and `İ` are a bit strange since the English "i" is either dotted or not, depending on whether it's lower or upper case. Turkish has two different i letters, one dotted and one undotted -- and each has a lower and upper case version! While on a real Turkish keyboard, these are two separate keys, here we just put them all on the I key and you use the `;` combos for the Turkish versions.
@@ -59,7 +62,7 @@ The Turkish `I` and `İ` are a bit strange since the English "i" is either dotte
 
 The provided setup file should work on Windows 7 and up.
 
-- Download [intl+bc.zip](https://github.com/billyc/en-de-tr-keyboard/raw/master/windows/intl%2Bbc.zip)
+- Download [intl-bc.zip](https://github.com/billyc/en-de-tr-keyboard/raw/master/windows/intl-bc-keyboard.zip)
 - Unzip the contents, and run `setup.exe`.
 - Then go to your system _Region & Language_ control panel. Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard.
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
@@ -68,13 +71,13 @@ The provided setup file should work on Windows 7 and up.
 
 This is tested on both Intel and M1 macs.
 
-- Download [intl+bc.zip](https://github.com/billyc/en-de-tr-keyboard/raw/master/windows/intl%2Bbc.zip)
+- Download [billy-en-de-tr-keyboard.dmg](https://github.com/billyc/en-de-tr-keyboard/raw/master/mac/billy-en-de-tr-keyboard.dmg)
 - Run the .dmg file installer
 - Select it using the Keyboard Control Panel
 
 ## 3. Linux
 
-The files mentioned below can be found in <https://github.com/billyc/turkish-keyboard/linux>
+The files mentioned below can be found in <https://github.com/billyc/keyboard/linux>
 
 1. Copy the following two files using sudo to their proper places:
 
