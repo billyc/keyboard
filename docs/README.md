@@ -2,15 +2,17 @@
 
 # Billy's Special keyboard layout:<br/>US Layout for coders + German and Turkish too!
 
+This keyobard layout is probably only useful for _Americans with U.S. keyboards who only occasionally need to type in German._ But that's me! And I published it here in case you find it helpful too.
+
 As a software dev, I need all the brackets and punctuation on the US keyboard layout at my fingertips. But I live in Berlin, so I also need to type in German! Typing in German is pretty easy if you switch to the International keyboard, but then all the punctuation ends up in weird places, not to mention always getting Z and Y wrong.
 
 This keyboard layout can do it all. It's based on the US layout, and uses key combinations using the `semicolon` key to trigger the accented letters that I need here in Germany.
 
 <p style="padding: 1rem 1rem; background-color: white">
-Why German and Turkish? Well first of all, because I live in Berlin! English, German, and Turkish are the three most common languages spoken in Berlin, probably in that order ;-) so it makes sense to have one keyboard that does all three.
+Why German and Turkish? Well first of all, because I live in Berlin! English, German, and Turkish are the three most common languages spoken in Berlin, probably in that order ;-) so it makes sense to have one keyboard that does all three.<br/>
+<br/>
+If you just need English and German, that's OK you can safely ignore the Turkish letters below!
 </p>
-
-So, this keyboard is probably only useful for _Americans with U.S. keyboards who only occasionally need to type in those other languages._ But that's me! And I put it here in case you find it helpful.
 
 ## How to type umlauts and some special characters: ö ü ä ß ç ş ğ ı
 
