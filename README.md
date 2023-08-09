@@ -1,28 +1,22 @@
-![keyboard map](https://github.com/billyc/en-de-tr-keyboard/raw/master/keyboard-US-International.png 'Full Keyboard Map')
+![keyboard map](https://github.com/billyc/keyboard/raw/master/keyboard-US-International.png 'Full Keyboard Map')
 
-# Billy's Special keyboard layout:<br/>US Layout for coders + German and Turkish too!
+# Billy's Special keyboard layout:<br/>US Layout for coders + German letters
 
-This keyboard layout is probably only useful for _Americans with U.S. keyboards who only occasionally need to type in German._ But that's me! And I published it here in case you find it helpful too.
+This keyboard layout may only be useful for _people with U.S. keyboards who only occasionally need to type in German._ But that's me! And I published it here in case you find it helpful too.
 
-As a software dev, I need all the brackets and punctuation on the US keyboard layout at my fingertips. But I live in Berlin, so I also need to type in German! Typing in German is pretty easy if you switch to the International keyboard, but then all the punctuation ends up in weird places, not to mention always getting Z and Y wrong.
+As a software developer, I need all the brackets and punctuation on the US keyboard layout at my fingertips. But I live in Berlin, so I also need to type in German! Typing in German is pretty easy if you switch to the International keyboard, but then all the punctuation ends up in weird places, not to mention always getting Z and Y wrong.
 
-This keyboard layout can do it all. It's based on the US layout, and uses key combinations using the **semicolon key** `;` to trigger the accented letters that I need here in Germany.
+This keyboard layout can do it all. It's based on the US layout, and uses key combinations using the **semicolon key** `;` to trigger the accented letters that I need here in Germany. I also included the Euro symbol and a few Turkish letters too because I need them, but you can ignore those if you don't need 'em.
 
-<p style="padding: 1rem 1rem; background-color: white">
-Why German and Turkish? Well first of all, because I live in Berlin! English, German, and Turkish are the three most common languages spoken in Berlin, probably in that order ;-) so it makes sense to have one keyboard that does all three.<br/>
-<br/>
-If you just need English and German, that's OK you can safely ignore the Turkish letters below!
-</p>
-
-## How to type umlauts and some special characters: ö ü ä ß ç ş ğ ı
+## How to type German umlauts and special characters
 
 Every key on this keyboard works exactly like the regular U.S. keyboard with the exception of the `semicolon (;)` key which triggers a two-key combination:
 
 **For umlauts etc:**
 
 - First type `;` -- nothing will show up on your screen
-- Then type the letter: `o` `u` `a` `s` `c` `x` `i`.
-- The umlauted or accented character will magically appear! öüäßçşğı
+- Then type a letter: `e` `o` `u` `a` `s` `c` `x` `i`.
+- The umlauted or accented character will magically appear! € öüäß çşğı
 
 **For Capital Letters:**
 
@@ -35,9 +29,16 @@ Every key on this keyboard works exactly like the regular U.S. keyboard with the
 - Press `;` twice ("semi-semi")
 - Or press "semi-space" to get a semicolon followed by a space.
 
+** Euro Symbol:**
+
+- Is `;` followed by `e`
+
+## Summary
+
 | Letter | How to Type It |
 | ------ | -------------- |
 | `;`    | `;` + `;`      |
+| `€`    | `;` + `E`      |
 | `ö`    | `;` + `O`      |
 | `ü`    | `;` + `U`      |
 | `ä`    | `;` + `A`      |
@@ -46,30 +47,27 @@ Every key on this keyboard works exactly like the regular U.S. keyboard with the
 | `ş`    | `;` + `X`      |
 | `ğ`    | `;` + `G`      |
 | `ı/İ`  | `;` + `I`      |
-| `€`    | `;` + `E`      |
 
 Remember, to produce a Capital Letter, press `;` first and **then** `SHIFT` and the letter.
-
-**About that Turkish `İ`**
-
-The Turkish `I` and `İ` are a bit strange since the English "i" is either dotted or not, depending on whether it's lower or upper case. Turkish has two different i letters, one dotted and one undotted -- and each has a lower and upper case version! While on a real Turkish keyboard, these are two separate keys, here we just put them all on the I key and you use the `;` combos for the Turkish versions.
 
 # Installation
 
 ## 1. Windows
 
-The provided setup file should work on Windows 7/8/10/11.
+The provided setup file should work on Windows 10 and 11.
 
-- Download [intl-bc.zip](https://github.com/billyc/en-de-tr-keyboard/raw/master/windows/intl-bc-keyboard.zip)
+- Download [keyboard-semicolon-de.zip](https://github.com/billyc/keyboard/raw/master/windows/keyboard-semicolon-de.zip)
 - Unzip the contents, and run `setup.exe`.
-- Then go to your system _Region & Language_ control panel. Under the English language options, you should be able to add/remove the "US International Alternate + Turkish" keyboard.
+- After it installs, log out or reboot your system
+- Then go to your system _Language and Region_ control panel. Under the English language options, you should be able to add/remove the "**United States (Semicolon DE+TR)**" keyboard.
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
+- If the keyboard picker doesn't show up in your system tray, try Windows Key + Space Bar
 
 ## 2. Mac
 
 This is tested on both Intel and M1 macs.
 
-- Download [billy-en-de-tr-keyboard.dmg](https://github.com/billyc/en-de-tr-keyboard/raw/master/mac/billy-en-de-tr-keyboard.dmg)
+- Download [billy-en-de-tr-keyboard.dmg](https://github.com/billyc/keyboard/raw/master/mac/billy-en-de-tr-keyboard.dmg)
 - Run the .dmg file installer
 - Select it using the Keyboard Control Panel
 
@@ -98,6 +96,9 @@ You may need to logout/login to select your new keyboard from the top-right syst
 
 Feel free to fork and make your own keyboards!
 
-Windows: Built with the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx). Props to [keyboards.jargon-file.org](http://keyboards.jargon-file.org) for the initial KLC file!
+Windows: Built with the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx).
+<br/>Props to [keyboards.jargon-file.org](http://keyboards.jargon-file.org) for the initial KLC file!
 
-Linux: I followed this blog to figure out how to do it: <http://karols.github.io/blog/2013/11/18/creating-custom-keyboard-layouts-for-linux/>
+Linux: I followed this blog to figure out how to do it: 
+<br/><http://karols.github.io/blog/2013/11/18/creating-custom-keyboard-layouts-for-linux/>
+

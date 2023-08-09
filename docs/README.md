@@ -15,8 +15,8 @@ Every key on this keyboard works exactly like the regular U.S. keyboard with the
 **For umlauts etc:**
 
 - First type `;` -- nothing will show up on your screen
-- Then type a letter: `o` `u` `a` `s` `c` `x` `i`.
-- The umlauted or accented character will magically appear! öüäßçşğı
+- Then type a letter: `e` `o` `u` `a` `s` `c` `x` `i`.
+- The umlauted or accented character will magically appear! € öüäß çşğı
 
 **For Capital Letters:**
 
@@ -29,9 +29,16 @@ Every key on this keyboard works exactly like the regular U.S. keyboard with the
 - Press `;` twice ("semi-semi")
 - Or press "semi-space" to get a semicolon followed by a space.
 
+** Euro Symbol:**
+
+- Is `;` followed by `e`
+
+## Summary
+
 | Letter | How to Type It |
 | ------ | -------------- |
 | `;`    | `;` + `;`      |
+| `€`    | `;` + `E`      |
 | `ö`    | `;` + `O`      |
 | `ü`    | `;` + `U`      |
 | `ä`    | `;` + `A`      |
@@ -40,13 +47,8 @@ Every key on this keyboard works exactly like the regular U.S. keyboard with the
 | `ş`    | `;` + `X`      |
 | `ğ`    | `;` + `G`      |
 | `ı/İ`  | `;` + `I`      |
-| `€`    | `;` + `E`      |
 
 Remember, to produce a Capital Letter, press `;` first and **then** `SHIFT` and the letter.
-
-**About that Turkish `İ`**
-
-Turkish has a weird `I` and `İ` that are a bit strange since the English "i" is either dotted or not, depending on whether it's lower or upper case. Turkish has two different i letters, one dotted and one undotted -- and each has a lower and upper case version! While on a real Turkish keyboard, these are two separate keys, here we just put them all on the I key and you use the `;` combos for the Turkish versions.
 
 # Installation
 
@@ -57,7 +59,7 @@ The provided setup file should work on Windows 10 and 11.
 - Download [keyboard-semicolon-de.zip](https://github.com/billyc/keyboard/raw/master/windows/keyboard-semicolon-de.zip)
 - Unzip the contents, and run `setup.exe`.
 - After it installs, log out or reboot your system
-- Then go to your system _Language and Region_ control panel. Under the English language options, you should be able to add/remove the "United States (Semicolon DE+TR)" keyboard.
+- Then go to your system _Language and Region_ control panel. Under the English language options, you should be able to add/remove the "**United States (Semicolon DE+TR)**" keyboard.
 - For my own system, I removed the "US Qwerty" keyboard so that Windows always defaults to this layout. Otherwise you may need to choose it from the language icon near your system clock/tray.
 - If the keyboard picker doesn't show up in your system tray, try Windows Key + Space Bar
 
